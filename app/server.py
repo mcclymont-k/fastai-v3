@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://drive.google.com/file/d/1UU3F6tBTdYJSUEzM0B8ev3pOu5eiAJog/view?usp=sharing'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1UU3F6tBTdYJSUEzM0B8ev3pOu5eiAJog'
 export_file_name = 'export.pkl'
 
 classes = ['3', '7']
